@@ -1,0 +1,135 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+#top {
+	background-image: url(../res/backgroundtop.jpg);
+	background-repeat: no-repeat;
+	background-size: auto 80vw;
+	padding-top: 5vw;
+	padding-bottom: 5vw;
+	text-align: center;
+	color: white;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	border-bottom-color: #DB504A;
+	border-bottom-style: solid;
+	border-bottom-width: 10px;
+}
+h1{
+	font-size: 8vh;
+	font-weight: 600;
+}
+#top h2{
+	font-size: 4vw;
+	padding-bottom: 3vw;
+}
+#ali{
+	border-radius: 50%;
+	border-width: 0.2vw;
+	border-color: white;
+	border-style: solid;
+	height: 12vw;
+	width: 12vw;
+}
+#skills{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.skset{
+	padding-left: 10px;
+	max-height: 0px;
+	overflow: hidden;
+	transition: all .5s ease-in-out;
+}
+.skset2{
+	padding-left: 10px;
+	display: block;
+}
+#skills h2{
+	color: #DB504A;
+	font-weight: 800;
+}
+
+#skills h3{
+	color: #43AA8B;
+}
+
+#experiences h2{
+	color: #DB504A;
+	font-weight: 800;
+}
+#experiences{
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-left-style: solid;
+	border-left-width: 4px;
+	border-left-color: #DB504A;
+}
+
+h2{
+	font-size: 35px;
+}
+.show{
+	max-height: 900px;
+
+}
+.exbut{
+	font-weight: 990;
+	font-size: 17px;
+	cursor: pointer; 
+	float: right;
+}
+.exbar{
+	background-color: #DB504A;
+	color: white;
+	padding-left: 10px;
+	padding-right: 4px;
+	padding-top: 0px;
+	margin-bottom: 3px;
+	cursor: pointer;
+}
+.expim img{
+	float: right;
+}
+
+#experiences h3{
+	color: #FF6F59;
+}
+
+#experiences h5{
+	color: #43AA8B;
+}
+
+#aiesecdetails{
+	padding-left: 15px;
+	border-left-style: solid;
+	border-left-width: 4px;
+	border-left-color: #43AA8B;
+}
+
+#aiesdet{
+	color: white;
+	background-color: #43AA8B;
+	padding-right: 10px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+.exbutaies{
+	padding-left: 10px;
+	font-weight: 900;
+	float: right;
+}
+
+.contact{padding-top: 20px;
+	text-align: center;
+}
+
+.contact a{
+	font-size: 30px;
+}
+
+#bottom{
+	background-color: #DB504A;
+	height: 80px;
+}
